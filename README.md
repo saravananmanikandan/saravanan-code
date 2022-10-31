@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saravanan-code
 - 👀 I’m interested in Ui/UX 
-- 🌱 I’m currently pursuing computer science and engineering 
+- 🌱 currently pursuing computer science and engineering 
 
 <!---
 saravanan-code/saravanan-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
